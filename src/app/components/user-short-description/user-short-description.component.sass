@@ -1,0 +1,24 @@
+@import src/global
+@import src/styles/layout/fit_image_container
+
+
+.user-info-wrapper
+  width: fit-content
+  height: fit-content
+
+.user-image
+  @extend %fit-image-container
+  height: 100px
+  width: 100px
+
+.user-name
+  @extend %main-font
+  color: $font-color-primary
+  font-size: $font-size-normal
+  text-align: center
+
+.user-role
+  @extend %main-font
+  color: $font-color-faded
+  font-size: $font-size-small
+  text-align: center

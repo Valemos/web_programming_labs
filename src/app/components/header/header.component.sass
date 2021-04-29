@@ -1,0 +1,31 @@
+@import src/global
+@import src/styles/layout/fit_image_container
+@import src/styles/layout/flex-alignment
+@import src/styles/module/buttons
+
+
+header
+  +flex-align(center, center)
+  padding: 10px
+  width: 100%
+  background: $primary-color
+
+
+.logo-wrapper
+  +flex-align(center, center)
+  p
+    @extend %main-font
+    font-size: $font-size-title
+    color: white
+
+
+.buttons-wrapper
+  +flex-align(center, center)
+  height: fit-content
+  vertical-align: center
+
+
+.logo-image
+  @extend %fit-image-container
+  height: 20px
+  width: 20px
