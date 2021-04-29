@@ -1,0 +1,25 @@
+@import src/global
+
+$grid-cell-width: 40rem
+$grid-cell-height: 20rem
+$grid-gap-size: 2rem
+
+
+=grid-cell($height, $width)
+  display: flex
+  margin: 0 $grid-gap-size $grid-gap-size 0
+
+  +fixed-width($grid-cell-width * $width + ($width - 1) * $grid-gap-size)
+  +fixed-height($grid-cell-height * $height + ($height - 1) * $grid-gap-size)
+
+
+%grid
+  .row
+    display: flex
+    justify-content: flex-start
+
+    .cell-1-1
+      +grid-cell(1, 1)
+
+    .cell-1-2
+      +grid-cell(1, 2)

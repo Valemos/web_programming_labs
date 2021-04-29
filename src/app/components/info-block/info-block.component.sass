@@ -1,0 +1,28 @@
+@import src/global
+@import src/styles/module/outline
+@import src/styles/layout/flex_alignment
+
+
+div
+  +flex-align(flex-start)
+  flex-direction: column
+
+  position: relative
+  width: 100%
+
+  +outline-shadow(0.3rem)
+  border-radius: 0.5rem
+  padding: 1rem
+
+  span
+    @extend %main-font
+    font-weight: bold
+    font-size: $font-size-normal
+
+    display: block
+    text-align: center
+
+  p
+    @extend %main-font
+    font-size: $font-size-normal
+    display: block

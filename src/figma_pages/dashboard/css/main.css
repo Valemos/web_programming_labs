@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  font-size: 14px;
+  font-size: 1.4rem;
 }
 .v0_1076 {
   width: 100%;
@@ -75,7 +75,7 @@ body {
 .v0_1082 {
   width: 5px;
   height: 10px;
-  background: url("../../../assets/v0_141.png");
+  background: url('../../../assets/v0_141.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -97,7 +97,7 @@ body {
 .v0_1084 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1084.png");
+  background: url('../../../assets/v0_1084.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -154,7 +154,7 @@ body {
 .v0_1089 {
   width: 5px;
   height: 10px;
-  background: url("../../../assets/v0_1089.png");
+  background: url('../../../assets/v0_1089.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -176,7 +176,7 @@ body {
 .v0_1091 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1091.png");
+  background: url('../../../assets/v0_1091.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -508,7 +508,7 @@ body {
 .v0_1121 {
   width: 35px;
   height: 189px;
-  background: url("../../../assets/v0_1121.png");
+  background: url('../../../assets/v0_1121.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -542,7 +542,7 @@ body {
 .v0_1124 {
   width: 35px;
   height: 222px;
-  background: url("../../../assets/v0_1124.png");
+  background: url('../../../assets/v0_1124.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -576,7 +576,7 @@ body {
 .v0_1127 {
   width: 35px;
   height: 209px;
-  background: url("../../../assets/v0_1127.png");
+  background: url('../../../assets/v0_1127.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -610,7 +610,7 @@ body {
 .v0_1130 {
   width: 35px;
   height: 326px;
-  background: url("../../../assets/v0_1130.png");
+  background: url('../../../assets/v0_1130.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -644,7 +644,7 @@ body {
 .v0_1133 {
   width: 35px;
   height: 326px;
-  background: url("../../../assets/v0_1133.png");
+  background: url('../../../assets/v0_1133.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -678,7 +678,7 @@ body {
 .v0_1136 {
   width: 35px;
   height: 275px;
-  background: url("../../../assets/v0_1136.png");
+  background: url('../../../assets/v0_1136.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -712,7 +712,7 @@ body {
 .v0_1139 {
   width: 35px;
   height: 209px;
-  background: url("../../../assets/v0_1139.png");
+  background: url('../../../assets/v0_1139.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -816,7 +816,7 @@ body {
 .v0_1148 {
   width: 5px;
   height: 10px;
-  background: url("../../../assets/v0_1148.png");
+  background: url('../../../assets/v0_1148.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -838,7 +838,7 @@ body {
 .v0_1150 {
   width: 25px;
   height: 24px;
-  background: url("../../../assets/v0_1150.png");
+  background: url('../../../assets/v0_1150.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -883,7 +883,7 @@ body {
 .v0_1154 {
   width: 5px;
   height: 10px;
-  background: url("../../../assets/v0_1154.png");
+  background: url('../../../assets/v0_1154.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -905,7 +905,7 @@ body {
 .v0_1156 {
   width: 25px;
   height: 24px;
-  background: url("../../../assets/v0_1156.png");
+  background: url('../../../assets/v0_1156.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -937,7 +937,7 @@ body {
 .v0_1159 {
   width: 244px;
   height: 244px;
-  background: url("../../../assets/v0_1159.png");
+  background: url('../../../assets/v0_1159.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -995,7 +995,7 @@ body {
 .v0_1165 {
   width: 211px;
   height: 92px;
-  background: url("../../../assets/v0_1165.png");
+  background: url('../../../assets/v0_1165.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1139,7 +1139,7 @@ body {
 .v0_1189 {
   width: 19px;
   height: 19px;
-  background: url("../../../assets/v0_1189.png");
+  background: url('../../../assets/v0_1189.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1180,7 +1180,7 @@ body {
 .v0_1200 {
   width: 22px;
   height: 16px;
-  background: url("../../../assets/v0_1200.png");
+  background: url('../../../assets/v0_1200.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1267,7 +1267,7 @@ body {
 .v0_1213 {
   width: 11px;
   height: 5px;
-  background: url("../../../assets/v0_1213.png");
+  background: url('../../../assets/v0_1213.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1289,7 +1289,7 @@ body {
 .v0_1215 {
   width: 25px;
   height: 24px;
-  background: url("../../../assets/v0_1215.png");
+  background: url('../../../assets/v0_1215.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1336,7 +1336,7 @@ body {
 .v0_1219 {
   width: 140px;
   height: 36px;
-  background: url("../../../assets/v0_1219.png");
+  background: url('../../../assets/v0_1219.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1397,7 +1397,7 @@ body {
 .v0_1236 {
   width: 100%;
   height: 1px;
-  background: url("../../../assets/v0_1236.png");
+  background: url('../../../assets/v0_1236.png');
   opacity: 1;
   position: absolute;
   top: 55px;
@@ -1487,7 +1487,7 @@ body {
 .v0_1244 {
   width: 4px;
   height: 16px;
-  background: url("../../../assets/v0_1244.png");
+  background: url('../../../assets/v0_1244.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1503,7 +1503,7 @@ body {
 .v0_1249 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1249.png");
+  background: url('../../../assets/v0_1249.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1526,7 +1526,7 @@ body {
 .v0_1251 {
   width: 18px;
   height: 18px;
-  background: url("../../../assets/v0_1251.png");
+  background: url('../../../assets/v0_1251.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1542,7 +1542,7 @@ body {
 .v0_1255 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1255.png");
+  background: url('../../../assets/v0_1255.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1662,7 +1662,7 @@ body {
 .v0_1266 {
   width: 4px;
   height: 16px;
-  background: url("../../../assets/v0_1266.png");
+  background: url('../../../assets/v0_1266.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1678,7 +1678,7 @@ body {
 .v0_1271 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1271.png");
+  background: url('../../../assets/v0_1271.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1701,7 +1701,7 @@ body {
 .v0_1273 {
   width: 18px;
   height: 18px;
-  background: url("../../../assets/v0_1273.png");
+  background: url('../../../assets/v0_1273.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1717,7 +1717,7 @@ body {
 .v0_1277 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1277.png");
+  background: url('../../../assets/v0_1277.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1837,7 +1837,7 @@ body {
 .v0_1288 {
   width: 4px;
   height: 16px;
-  background: url("../../../assets/v0_1288.png");
+  background: url('../../../assets/v0_1288.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1853,7 +1853,7 @@ body {
 .v0_1293 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1293.png");
+  background: url('../../../assets/v0_1293.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1876,7 +1876,7 @@ body {
 .v0_1295 {
   width: 18px;
   height: 18px;
-  background: url("../../../assets/v0_1295.png");
+  background: url('../../../assets/v0_1295.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1892,7 +1892,7 @@ body {
 .v0_1299 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1299.png");
+  background: url('../../../assets/v0_1299.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2012,7 +2012,7 @@ body {
 .v0_1310 {
   width: 4px;
   height: 16px;
-  background: url("../../../assets/v0_1310.png");
+  background: url('../../../assets/v0_1310.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2028,7 +2028,7 @@ body {
 .v0_1315 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1315.png");
+  background: url('../../../assets/v0_1315.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2051,7 +2051,7 @@ body {
 .v0_1317 {
   width: 18px;
   height: 18px;
-  background: url("../../../assets/v0_1317.png");
+  background: url('../../../assets/v0_1317.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2067,7 +2067,7 @@ body {
 .v0_1321 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1321.png");
+  background: url('../../../assets/v0_1321.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2187,7 +2187,7 @@ body {
 .v0_1332 {
   width: 4px;
   height: 16px;
-  background: url("../../../assets/v0_1332.png");
+  background: url('../../../assets/v0_1332.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2203,7 +2203,7 @@ body {
 .v0_1337 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1337.png");
+  background: url('../../../assets/v0_1337.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2226,7 +2226,7 @@ body {
 .v0_1339 {
   width: 18px;
   height: 18px;
-  background: url("../../../assets/v0_1339.png");
+  background: url('../../../assets/v0_1339.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2242,7 +2242,7 @@ body {
 .v0_1343 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1343.png");
+  background: url('../../../assets/v0_1343.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2362,7 +2362,7 @@ body {
 .v0_1354 {
   width: 4px;
   height: 16px;
-  background: url("../../../assets/v0_1354.png");
+  background: url('../../../assets/v0_1354.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2378,7 +2378,7 @@ body {
 .v0_1359 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1359.png");
+  background: url('../../../assets/v0_1359.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2401,7 +2401,7 @@ body {
 .v0_1361 {
   width: 18px;
   height: 18px;
-  background: url("../../../assets/v0_1361.png");
+  background: url('../../../assets/v0_1361.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2417,7 +2417,7 @@ body {
 .v0_1365 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1365.png");
+  background: url('../../../assets/v0_1365.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2517,7 +2517,7 @@ body {
 .v0_1374 {
   width: 100%;
   height: 58px;
-  background: url("../../../assets/v0_1374.png");
+  background: url('../../../assets/v0_1374.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2551,7 +2551,7 @@ body {
 .v0_1377 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1377.png");
+  background: url('../../../assets/v0_1377.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2564,7 +2564,7 @@ body {
 .v0_1378 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1378.png");
+  background: url('../../../assets/v0_1378.png');
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -2582,7 +2582,7 @@ body {
 .v0_1380 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1380.png");
+  background: url('../../../assets/v0_1380.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2595,7 +2595,7 @@ body {
 .v0_1381 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1381.png");
+  background: url('../../../assets/v0_1381.png');
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -2613,7 +2613,7 @@ body {
 .v0_1383 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1383.png");
+  background: url('../../../assets/v0_1383.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2626,7 +2626,7 @@ body {
 .v0_1384 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1384.png");
+  background: url('../../../assets/v0_1384.png');
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -2757,7 +2757,7 @@ body {
 .v0_1396 {
   width: 5px;
   height: 10px;
-  background: url("../../../assets/v0_1396.png");
+  background: url('../../../assets/v0_1396.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2779,7 +2779,7 @@ body {
 .v0_1398 {
   width: 25px;
   height: 24px;
-  background: url("../../../assets/v0_1398.png");
+  background: url('../../../assets/v0_1398.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2811,7 +2811,7 @@ body {
 .v0_1401 {
   width: 329px;
   height: 85px;
-  background: url("../../../assets/v0_1401.png");
+  background: url('../../../assets/v0_1401.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2824,7 +2824,7 @@ body {
 .v0_1402 {
   width: 64px;
   height: 64px;
-  background: url("../../../assets/v0_1402.png");
+  background: url('../../../assets/v0_1402.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2852,7 +2852,7 @@ body {
 .v0_1405 {
   width: 58px;
   height: 58px;
-  background: url("../../../assets/v0_1405.png");
+  background: url('../../../assets/v0_1405.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2899,7 +2899,7 @@ body {
 .v0_1409 {
   width: 4px;
   height: 16px;
-  background: url("../../../assets/v0_1409.png");
+  background: url('../../../assets/v0_1409.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2915,7 +2915,7 @@ body {
 .v0_1414 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1414.png");
+  background: url('../../../assets/v0_1414.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2948,7 +2948,7 @@ body {
 .v0_1417 {
   width: 329px;
   height: 85px;
-  background: url("../../../assets/v0_1417.png");
+  background: url('../../../assets/v0_1417.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2961,7 +2961,7 @@ body {
 .v0_1418 {
   width: 64px;
   height: 64px;
-  background: url("../../../assets/v0_1418.png");
+  background: url('../../../assets/v0_1418.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3004,7 +3004,7 @@ body {
 .v0_1421 {
   width: 64px;
   height: 64px;
-  background: url("../../../assets/v0_1421.png");
+  background: url('../../../assets/v0_1421.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3051,7 +3051,7 @@ body {
 .v0_1425 {
   width: 4px;
   height: 16px;
-  background: url("../../../assets/v0_1425.png");
+  background: url('../../../assets/v0_1425.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3067,7 +3067,7 @@ body {
 .v0_1430 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1430.png");
+  background: url('../../../assets/v0_1430.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3100,7 +3100,7 @@ body {
 .v0_1433 {
   width: 329px;
   height: 84px;
-  background: url("../../../assets/v0_1433.png");
+  background: url('../../../assets/v0_1433.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3113,7 +3113,7 @@ body {
 .v0_1434 {
   width: 63px;
   height: 63px;
-  background: url("../../../assets/v0_1434.png");
+  background: url('../../../assets/v0_1434.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3141,7 +3141,7 @@ body {
 .v0_1437 {
   width: 63px;
   height: 63px;
-  background: url("../../../assets/v0_1437.png");
+  background: url('../../../assets/v0_1437.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3188,7 +3188,7 @@ body {
 .v0_1441 {
   width: 4px;
   height: 16px;
-  background: url("../../../assets/v0_1441.png");
+  background: url('../../../assets/v0_1441.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3204,7 +3204,7 @@ body {
 .v0_1446 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1446.png");
+  background: url('../../../assets/v0_1446.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3237,7 +3237,7 @@ body {
 .v0_1449 {
   width: 319px;
   height: 63px;
-  background: url("../../../assets/v0_1449.png");
+  background: url('../../../assets/v0_1449.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3250,7 +3250,7 @@ body {
 .v0_1450 {
   width: 63px;
   height: 63px;
-  background: url("../../../assets/v0_1450.png");
+  background: url('../../../assets/v0_1450.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3278,7 +3278,7 @@ body {
 .v0_1453 {
   width: 64px;
   height: 64px;
-  background: url("../../../assets/v0_1453.png");
+  background: url('../../../assets/v0_1453.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3325,7 +3325,7 @@ body {
 .v0_1457 {
   width: 4px;
   height: 16px;
-  background: url("../../../assets/v0_1457.png");
+  background: url('../../../assets/v0_1457.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3341,7 +3341,7 @@ body {
 .v0_1462 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1462.png");
+  background: url('../../../assets/v0_1462.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3469,7 +3469,7 @@ body {
 .v0_1473 {
   width: 64px;
   height: 64px;
-  background: url("../../../assets/v0_1473.png");
+  background: url('../../../assets/v0_1473.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3491,7 +3491,7 @@ body {
 .v0_1475 {
   width: 28px;
   height: 25px;
-  background: url("../../../assets/v0_1475.png");
+  background: url('../../../assets/v0_1475.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3510,7 +3510,7 @@ body {
 .v0_1502 {
   width: 36px;
   height: 36px;
-  background: url("../../../assets/v0_1502.png");
+  background: url('../../../assets/v0_1502.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3567,7 +3567,7 @@ body {
 .v0_1507 {
   width: 10px;
   height: 5px;
-  background: url("../../../assets/v0_1507.png");
+  background: url('../../../assets/v0_1507.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3589,7 +3589,7 @@ body {
 .v0_1509 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1509.png");
+  background: url('../../../assets/v0_1509.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3696,7 +3696,7 @@ body {
 .v0_1518 {
   width: 10px;
   height: 5px;
-  background: url("../../../assets/v0_1518.png");
+  background: url('../../../assets/v0_1518.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3730,7 +3730,7 @@ body {
 .v0_1521 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1521.png");
+  background: url('../../../assets/v0_1521.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3764,7 +3764,7 @@ body {
 .v0_1524 {
   width: 28px;
   height: 28px;
-  background: url("../../../assets/v0_1524.png");
+  background: url('../../../assets/v0_1524.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3783,7 +3783,7 @@ body {
 .v0_1537 {
   width: 36px;
   height: 36px;
-  background: url("../../../assets/v0_1537.png");
+  background: url('../../../assets/v0_1537.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3865,7 +3865,7 @@ body {
 .v0_1544 {
   width: 28px;
   height: 18px;
-  background: url("../../../assets/v0_1544.png");
+  background: url('../../../assets/v0_1544.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3896,7 +3896,7 @@ body {
 .v0_1547 {
   width: 36px;
   height: 36px;
-  background: url("../../../assets/v0_1547.png");
+  background: url('../../../assets/v0_1547.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3931,7 +3931,7 @@ body {
 .v0_1550 {
   width: 329px;
   height: 4px;
-  background: url("../../../assets/v0_1550.png");
+  background: url('../../../assets/v0_1550.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -4042,7 +4042,7 @@ body {
 .v0_1559 {
   width: 10px;
   height: 5px;
-  background: url("../../../assets/v0_1559.png");
+  background: url('../../../assets/v0_1559.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -4076,7 +4076,7 @@ body {
 .v0_1562 {
   width: 24px;
   height: 24px;
-  background: url("../../../assets/v0_1562.png");
+  background: url('../../../assets/v0_1562.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -4101,7 +4101,7 @@ body {
 .v0_1564 {
   width: 47px;
   height: 38px;
-  background: url("../../../assets/v0_1564.png");
+  background: url('../../../assets/v0_1564.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -4120,7 +4120,7 @@ body {
 .v0_1581 {
   width: 60px;
   height: 60px;
-  background: url("../../../assets/v0_1581.png");
+  background: url('../../../assets/v0_1581.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;

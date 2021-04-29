@@ -1,5 +1,14 @@
 <div>
   <app-header></app-header>
   <app-sidebar></app-sidebar>
-  <p>Dashboard</p>
+
+  <div class='grid-wrapper'>
+    <div class='row'>
+      <app-info-block class='cell-1-1' header='Some info' content='Dashboard content'></app-info-block>
+      <app-info-block class='cell-1-1' header='Info title' content='It is a grid test'></app-info-block>
+    </div>
+    <div class='row'>
+      <app-info-block class='cell-1-2' header='Some info' content='merged cell'></app-info-block>
+    </div>
+  </div>
 </div>

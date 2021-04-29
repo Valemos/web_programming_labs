@@ -1,6 +1,38 @@
-@import ../../../global
+@import src/global
+@import src/styles/layout/fit_image_container
+@import src/styles/layout/flex_alignment
+@import src/styles/layout/positional_alignment
 
-ul
+@import src/styles/state/menu_states
+
+
+a
   display: block
-  list-style: circle
-  color: $font-color-faded
+  margin: 0.2rem 0
+  width: fit-content
+  height: fit-content
+  text-decoration: none
+
+
+.menu-option-wrapper
+  +flex-align(left)
+
+  span
+    @extend %main-font
+    +user-select-none()
+    font-size: $font-size-normal
+    color: $font-color-faded
+    padding: 0.5rem
+
+
+.highlight-area
+  width: 0.5rem
+  height: auto
+  background-color: $background-color
+
+
+.menu-option-icon
+  @extend %fit-image-container
+  margin: auto 0
+  width: $main-menu-icon-size
+  height: $main-menu-icon-size

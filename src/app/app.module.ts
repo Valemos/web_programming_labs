@@ -10,8 +10,8 @@ import { MenuOptionComponent } from './components/menu-option/menu-option.compon
 import { SidebarComponent } from './components/sidebar/sidebar.component';
 import { UserShortDescriptionComponent } from './components/user-short-description/user-short-description.component';
 import { HeaderComponent } from './components/header/header.component';
-import { NotificationsButtonComponent } from './components/notifications-button/notifications-button.component';
-import { LogoutButtonComponent } from './components/logout-button/logout-button.component';
+import { InfoBlockComponent } from './components/info-block/info-block.component';
+import { SmallButtonComponent } from './components/small-button/small-button.component';
 
 @NgModule({
   declarations: [
@@ -23,8 +23,8 @@ import { LogoutButtonComponent } from './components/logout-button/logout-button.
     SidebarComponent,
     UserShortDescriptionComponent,
     HeaderComponent,
-    NotificationsButtonComponent,
-    LogoutButtonComponent
+    InfoBlockComponent,
+    SmallButtonComponent
   ],
   imports: [
     BrowserModule,

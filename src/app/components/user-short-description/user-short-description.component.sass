@@ -1,15 +1,17 @@
 @import src/global
 @import src/styles/layout/fit_image_container
+@import src/styles/module/circular_border
+@import ../../../styles/layout/flex_alignment
 
 
 .user-info-wrapper
-  width: fit-content
-  height: fit-content
+  +flex-align(center, center)
+  flex-direction: column
+  padding: 1rem
 
 .user-image
   @extend %fit-image-container
-  height: 100px
-  width: 100px
+  +circular-border(10rem)
 
 .user-name
   @extend %main-font
