@@ -7,13 +7,16 @@ import { Component, OnInit, Input } from '@angular/core';
 })
 export class MenuOptionComponent implements OnInit {
   @Input() name: string;
-  @Input() route: '/#';
+  @Input() route: string;
   @Input() imagePath: string;
 
   constructor() { }
 
   ngOnInit(): void {
-    if (this.imagePath === undefined){
+    if (this.route === undefined) {
+      this.route = '/';
+    }
+    if (this.imagePath === undefined) {
       this.imagePath = 'assets/circle-outline.svg';
     }
   }
