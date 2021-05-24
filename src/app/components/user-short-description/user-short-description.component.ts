@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-user-short-description',
@@ -6,13 +6,16 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./user-short-description.component.sass']
 })
 export class UserShortDescriptionComponent implements OnInit {
-  imageUrl = 'assets/sample_face.png';
-  userName = 'Roman Kutepov';
-  userRole = 'Brain Director';
+  @Input() imageUrl;
+  @Input() userName;
+  @Input() userRole;
 
-  constructor() { }
+  constructor() {
+    this.imageUrl = '';
+    this.userName = '';
+    this.userRole = '';
+  }
 
   ngOnInit(): void {
   }
-
 }

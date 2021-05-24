@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -12,6 +13,7 @@ import { UserShortDescriptionComponent } from './components/user-short-descripti
 import { HeaderComponent } from './components/header/header.component';
 import { InfoBlockComponent } from './components/info-block/info-block.component';
 import { SmallButtonComponent } from './components/small-button/small-button.component';
+import { UserInfoGitHubComponent } from './components/user-info-git-hub/user-info-git-hub.component';
 
 @NgModule({
   declarations: [
@@ -24,11 +26,13 @@ import { SmallButtonComponent } from './components/small-button/small-button.com
     UserShortDescriptionComponent,
     HeaderComponent,
     InfoBlockComponent,
-    SmallButtonComponent
+    SmallButtonComponent,
+    UserInfoGitHubComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    HttpClientModule,
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

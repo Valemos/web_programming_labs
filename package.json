@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "deploy": "ng build --prod --output-path docs --base-href /web_programming_labs & copy \".\\docs\\index.html\" \".\\docs\\404.html\"",
+    "deploy": "ng deploy --base-href=/web_programming_labs/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
@@ -29,6 +29,7 @@
     "@angular/compiler-cli": "~11.2.11",
     "@types/jasmine": "~3.6.0",
     "@types/node": "^12.11.1",
+    "angular-cli-ghpages": "^1.0.0-rc.1",
     "codelyzer": "^6.0.0",
     "jasmine-core": "~3.6.0",
     "jasmine-spec-reporter": "~5.0.0",
